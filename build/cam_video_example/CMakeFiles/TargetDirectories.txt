@@ -1,0 +1,10 @@
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/uninstall.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/cam_video_example_uninstall.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/camera_publisher.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/test.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/edit_cache.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/rebuild_cache.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/list_install_components.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/install.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/install/local.dir
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example/CMakeFiles/install/strip.dir

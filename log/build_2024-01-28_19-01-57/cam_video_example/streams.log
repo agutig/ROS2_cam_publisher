@@ -1,0 +1,26 @@
+[0.071s] Invoking command in '/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example -- -j16 -l16
+[0.107s] [35m[1mConsolidate compiler generated dependencies of target camera_publisher[0m
+[0.123s] [ 50%] [32mBuilding CXX object CMakeFiles/camera_publisher.dir/src/camera_publisher.cpp.o[0m
+[3.673s] [100%] [32m[1mLinking CXX executable camera_publisher[0m
+[4.081s] [100%] Built target camera_publisher
+[4.089s] Invoked command in '/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example -- -j16 -l16
+[4.120s] Invoking command in '/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example
+[4.127s] -- Install configuration: ""
+[4.127s] -- Installing: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/lib/cam_video_example/camera_publisher
+[4.128s] -- Set runtime path of "/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/lib/cam_video_example/camera_publisher" to ""
+[4.128s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/ament_index/resource_index/package_run_dependencies/cam_video_example
+[4.128s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/ament_index/resource_index/parent_prefix_path/cam_video_example
+[4.128s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/ament_prefix_path.sh
+[4.129s] -- Installing: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/ament_prefix_path.dsv
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/path.sh
+[4.129s] -- Installing: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/path.dsv
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.bash
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.sh
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.zsh
+[4.129s] -- Installing: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.dsv
+[4.129s] -- Installing: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/package.dsv
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/ament_index/resource_index/packages/cam_video_example
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/cmake/cam_video_exampleConfig.cmake
+[4.129s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/cmake/cam_video_exampleConfig-version.cmake
+[4.130s] -- Up-to-date: /home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/package.xml
+[4.132s] Invoked command in '/home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/evilguti/Documentos/GitHub/cam_video_example_ws/build/cam_video_example

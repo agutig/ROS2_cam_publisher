@@ -1,0 +1,16 @@
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/lib/cam_video_example/camera_publisher
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/ament_index/resource_index/package_run_dependencies/cam_video_example
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/ament_index/resource_index/parent_prefix_path/cam_video_example
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/ament_prefix_path.sh
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/ament_prefix_path.dsv
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/path.sh
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/environment/path.dsv
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.bash
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.sh
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.zsh
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/local_setup.dsv
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/package.dsv
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/ament_index/resource_index/packages/cam_video_example
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/cmake/cam_video_exampleConfig.cmake
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/cmake/cam_video_exampleConfig-version.cmake
+/home/evilguti/Documentos/GitHub/cam_video_example_ws/install/cam_video_example/share/cam_video_example/package.xml
