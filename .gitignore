@@ -1,0 +1,4 @@
+//Add compilation files' paths to avoid an unclean repository
+build
+install
+log
